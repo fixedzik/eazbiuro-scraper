@@ -18,7 +18,7 @@ The above project is for educational purposes only and does not encourage any im
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Support the Developers
-<a href="https://supportme.fixed.ovh/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" /></a>
+<a href="https://supportme.fixed.ovh/" target="_blank"><img src="https://cdn.fixed.ovh/supportme.png" alt="Support me!" style="height: 50% !important; width: 50% !important;" /></a>
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/fixedzik/eazbiuro-scraper/blob/main/LICENSE) file for details.
